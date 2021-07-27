@@ -1,42 +1,42 @@
-# README #
-CODE IS COMPATIBLE WITH PHP 5.5, 5.6 AND 7 THE LATEST VERSION.
+# LISEZ-MOI #
+CODE EST COMPATIBLE AVEC PHP 5.5, 5.6 ET 7 LA DERNIÈRE VERSION.
 
-"PHP scripting is definitely one of the easiest, if not the easiest scripting language to
-learn and grasp for developers. This is partially due to the similarities PHP syntax has
-with C and Java. Even if the only knowledge of development that you have is with HTML, picking
-up PHP is still fairly easy. For developers just starting out, PHP is often the first
-scripting language they learn because it's clear and easy to understand." - PJ Taei
+"Les scripts PHP sont certainement l'un des langages de script les plus faciles, sinon le plus simple à utiliser.
+apprendre et comprendre pour les développeurs. Ceci est en partie dû aux similitudes de la syntaxe PHP
+avec C et Java. Même si la seule connaissance du développement que vous ayez concerne le HTML, choisir
+PHP est encore assez simple. Pour les développeurs débutants, PHP est souvent le premier
+langage de script qu'ils apprennent parce qu'il est clair et facile à comprendre." - PJ Taei
 
-PHP Login and Registration system step by step -> One of the skill-set that is a must have for any
-PHP web developer is the ability to code a secure registration and login system. This course is
-designed to equip you with the fundamental skills needed to create a registration and login
-system using PHP and MYSQL Database.
+Système de connexion et d'enregistrement PHP étape par étape -> L'un des ensembles de compétences indispensables pour tout
+Le développeur Web PHP est la capacité de coder un système d'enregistrement et de connexion sécurisé. Ce cours est
+conçu pour vous doter des compétences fondamentales nécessaires pour créer une inscription et vous connecter
+système utilisant PHP et MYSQL Database.
 
-Additional resources, quizzes, and assignments will be given throughout this step by step
-PHP Login and Registration system course, to continually test your knowledge.
-You will not just learn how to write a login and registration script but how to
-build and secure a PHP web application piece by piece.
+Des ressources supplémentaires, des quiz et des devoirs seront donnés tout au long de cette étape par étape
+Cours sur le système de connexion et d'enregistrement PHP, pour tester continuellement vos connaissances.
+Vous apprendrez non seulement à rédiger un script de connexion et d'enregistrement, mais également à
+construire et sécuriser une application web PHP pièce par pièce.
 
-Some Main Features:
+Quelques caractéristiques principales :
 
-1. Account activation by email
+1. Activation du compte par e-mail
 
-2. Remember me functionality
+2. Fonctionnalité Se souvenir de moi
 
-3. Secured Password hashing
+3. Hachage de mot de passe sécurisé
 
-4. Password Reset / recovery by email system
+4. Réinitialisation du mot de passe / récupération par système de messagerie
 
-5. Protecting Against CSRF Attack with Unique Token Generation
+5. Protection contre les attaques CSRF avec la génération de jetons uniques
 
-6. Custom Functions in PHP (A lot)
+6. Fonctions personnalisées en PHP (beaucoup)
 
-7. Change Password
+7. Changer le mot de passe
 
-8. Deactivate Account
+8. Désactiver le compte
 
-9. Constantly update mostly based on genuine request from students
+9. Mettre à jour constamment la plupart du temps sur la base d'une véritable demande des étudiants
 
-After completing this step by step PHP Login and Registration system course,
-you would have gained some useful and practical skills that will help you in your goal
-to become a web developer or give you an edge in your current job.
+Après avoir terminé ce cours étape par étape sur le système de connexion et d'enregistrement PHP,
+vous auriez acquis des compétences utiles et pratiques qui vous aideront dans votre objectif
+devenir développeur Web ou vous donner un avantage dans votre travail actuel.
